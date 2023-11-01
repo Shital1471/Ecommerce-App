@@ -23,7 +23,7 @@ On the product detail screen, users can access comprehensive information about a
 ![WhatsApp Image 2023-10-20 at 21 58 08](https://github.com/Shital1471/Ecommerce-App/assets/114605853/1f4b574d-e540-44d2-ab05-bc0cefca70ad)
 
 
-## 4. State Management Using StreamBuilder
+## 4. State Management
 For efficient state management, the app utilizes the StreamBuilder widget. This widget listens to a data stream (typically a stream of product or category data) and rebuilds the UI in response to changes in the stream. State management via StreamBuilder ensures that the UI remains up to date with the latest data, reducing the need for manual refreshes and ensuring a seamless user experience.
 ## 5. API Integration to Fetch Categories and Products
 The app integrates with the Fake API from Platzi to fetch both category and product data. The app interacts with the following API endpoints:
